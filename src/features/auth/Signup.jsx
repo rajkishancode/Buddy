@@ -5,7 +5,7 @@ import { toast } from "react-toastify";
 import { useAuthForm } from "./useAuthForm";
 import { useAuth, signupUser } from "./authSlice";
 import { signupErrorReducer, signUpErrorInitialState } from "./reducers";
-import { validateSignupForm } from "./validateSignupForm ";
+import { validateSignupForm } from "./validateSignupForm";
 import { Input, useDocumentTitle, useScrollToTop } from "../../common";
 
 export const Signup = () => {
@@ -62,7 +62,7 @@ export const Signup = () => {
         className="border dark:border-gray-700 dark:bg-gray-800 bg-white shadow-lg p-6 rounded-lg max-w-lg w-full my-8 mx-4"
       >
         <div className="mb-4 text-center py-4">
-          <h3 className="font-semibold text-blue-500">Signup for myspace</h3>
+          <h3 className="font-semibold text-blue-500">Signup for buddy</h3>
           <p className="text-sm text-gray-500 dark:text-gray-400">
             Join the network.
           </p>
