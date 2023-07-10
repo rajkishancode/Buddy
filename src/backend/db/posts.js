@@ -523,7 +523,7 @@ export const posts = [
     comments: [],
     postMedia: null,
     profileImage: {
-      url: "https://res.cloudinary.com/dexubgbx0/image/upload/v1653736054/angelist-profile_rmiupp.jpg",
+      url: "https://pbs.twimg.com/profile_images/1628770889033715713/UqHHu52c_400x400.jpg",
       original_filename: "rajkishan",
     },
     userId: "raj-kishan-test-userId",
