@@ -122,7 +122,7 @@ export const Login = () => {
         )}
 
         <div className="text-sm mt-2 flex flex-row items-center justify-center">
-          New to mybuddy?
+          New to buddy?
           <Link
             to="/signup"
             className="font-semibold ml-2 flex items-center hover:underline"
